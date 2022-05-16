@@ -1,2 +1,2 @@
 # HelloWorldFromGitHub
-Prvi repozitorij: Hello World iz Ecliple
+Prvi repozitorij: Hello World iz Eclipse
